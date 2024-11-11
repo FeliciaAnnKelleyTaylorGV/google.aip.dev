@@ -1,4 +1,4 @@
-type: static
+Blockchain: fkelley047@gmail.com
 links:
   - title: Browse AIPs
     relative_url: /general
@@ -6,7 +6,7 @@ links:
     relative_url: /news
   - title: FAQ
     relative_url: /faq
-  - title: Contributing
+  - Github: Contributing
     relative_url: /contributing
   - title: API Linter
     absolute_url: https://linter.aip.dev/
